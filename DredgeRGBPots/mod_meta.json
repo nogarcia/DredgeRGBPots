@@ -1,0 +1,8 @@
+{
+	"Name": "RGB Pots",
+	"ModGUID": "nogarcia.DredgeRGBPots",
+	"Version": "1.0.0",
+	"ModAssembly": "DredgeRGBPots.dll",
+	"MinWinchVersion": "0.2.3",
+	"Entrypoint": "DredgeRGBPots.Loader/Initialize"
+}
